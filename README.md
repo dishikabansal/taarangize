@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FestOrganizer Android App
 
 An Android application for managing college fests with the following features:
@@ -110,3 +111,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions regarding this project, please contact the project administrator. 
+=======
+# taarangize
+App for our college fest coordination
+>>>>>>> c8aa54d45e36d88787d47509c49e5de971437e25
