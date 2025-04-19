@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary">#1E8449</color>        <!-- Green -->
+    <color name="primary_variant">#145A32</color> <!-- Dark Green -->
+    <color name="secondary">#2ECC71</color>      <!-- Light Green -->
+    <color name="secondary_variant">#27AE60</color> <!-- Medium Green -->
+    <color name="background">#FFFFFF</color>     <!-- White -->
+    <color name="surface">#FFFFFF</color>        <!-- White -->
+    <color name="error">#B00020</color>          <!-- Red -->
+    <color name="on_primary">#FFFFFF</color>     <!-- White -->
+    <color name="on_secondary">#000000</color>   <!-- Black -->
+    <color name="on_background">#000000</color>  <!-- Black -->
+    <color name="on_surface">#000000</color>     <!-- Black -->
+    <color name="on_error">#FFFFFF</color>       <!-- White -->
+</resources>

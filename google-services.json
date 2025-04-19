@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446936898211",
+    "project_id": "taarangize-chat",
+    "storage_bucket": "taarangize-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446936898211:android:05541fb0d190c84c3fbd16",
+        "android_client_info": {
+          "package_name": "com.igdtuw.taarangize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDva7FTzCsW_jr6ad81AdYoTEjHVJp0Fww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
